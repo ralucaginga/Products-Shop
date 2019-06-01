@@ -1,0 +1,25 @@
+Coca Cola,Sucuri,1.5,0,15,35852109,1125589546947
+Banane,Fructe si Legume,5.99,0,1,65973832,2134490752881
+Lamai,Fructe si Legume,3.5,0,2,88632345,3107969988378
+Afine 125g(bucata),Fructe si Legume,5.99,0,1,89900880,8416287341580
+Avocado 700g(bucata),Fructe si Legume,12.99,1,1,80275308,7350898621468
+Mere Golden,Fructe si Legume,3.39,1,2,56907722,4688209635573
+Struguri albi,Fructe si Legume,16.99,1,1,11653985,1002033368582
+Pere Williams,Fructe si Legume,7.99,1,1,26625997,9698335343842
+Ananas,Fructe si Legume,10.49,0,1,26862658,6699885937983
+Mere Rosii,Fructe si Legume,2.49,1,1,13047986,1473109853243
+Kiwi,Fructe si Legume,6.99,0,1,39084504,1585312715660
+Zmeura 125g,Fructe si Legume,7.99,1,1,41266853,7474984062489
+Portocale plasa 2kg,Fructe si Legume,7.19,1,1,49877861,7573978276420
+Grapefruit rosu 1.5kg(ambalat),Fructe si Legume,8.99,0,2,20142877,2853238998036
+Capsuni,Fructe si Legume,7.5,1,1,27586230,7346876368387
+Cartofi noi albi 2.5kg(bucata),Fructe si Legume,9.49,0,1,38855445,7610484831517
+Castraveti,Fructe si Legume,5.99,1,2,44173512,3974198731798
+Usturoi (vrac),Fructe si Legume,2.75,0,3,27264923,7767846818235
+Rosii,Fructe si Legume,6.99,1,2,64529509,2820478196909
+Morcovi,Fructe si Legume,3.59,0,2,98404040,8736080296410
+Ardei Kapia Rosu,Fructe si Legume,8.5,1,2,94647875,2323447791063
+Rosii Cherry 250g(bucata),Fructe si Legume,3.29,0,1,95786005,7259504866262
+Broccoli,Fructe si Legume,9.99,1,2,64026332,4544599960777
+Salata verde,Fructe si Legume,1.99,0,3,47384399,7943065077173
+Ciuperci Champignon,Fructe si Legume,10.59,0,3,15904893,4901339780563

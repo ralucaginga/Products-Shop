@@ -1,0 +1,48 @@
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Proiect\Proiect - POO\Proiect - POO\bin\Debug\Proiect - POO.exe.config
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Proiect\Proiect - POO\Proiect - POO\bin\Debug\Proiect - POO.exe
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Proiect\Proiect - POO\Proiect - POO\bin\Debug\Proiect - POO.pdb
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Proiect\Proiect - POO\Proiect - POO\obj\Debug\Proiect - POO.csprojAssemblyReference.cache
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Proiect\Proiect - POO\Proiect - POO\obj\Debug\Proiect___POO.CreareClient.resources
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Proiect\Proiect - POO\Proiect - POO\obj\Debug\Proiect___POO.Properties.Resources.resources
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Proiect\Proiect - POO\Proiect - POO\obj\Debug\Proiect - POO.csproj.GenerateResource.cache
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Proiect\Proiect - POO\Proiect - POO\obj\Debug\Proiect - POO.csproj.CoreCompileInputs.cache
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Proiect\Proiect - POO\Proiect - POO\obj\Debug\Proiect - POO.exe
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Proiect\Proiect - POO\Proiect - POO\obj\Debug\Proiect - POO.pdb
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Proiect\Proiect - POO\Proiect - POO\obj\Debug\Proiect___POO.AlegeClient.resources
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Proiect\Proiect - POO\Proiect - POO\obj\Debug\Proiect___POO.Shop.resources
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Proiect\Proiect - POO\Proiect - POO\obj\Debug\Proiect___POO.Factura.resources
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Proiect\Proiect - POO\Proiect - POO\bin\Debug\QRCoder.dll
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Proiect\Proiect - POO\Proiect - POO\bin\Debug\System.Drawing.Common.dll
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Proiect\Proiect - POO\Proiect - POO\obj\Debug\Proiect - POO.csproj.CopyComplete
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect\Proiect - POO\Proiect - POO\bin\Debug\Proiect - POO.exe.config
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect\Proiect - POO\Proiect - POO\bin\Debug\Proiect - POO.exe
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect\Proiect - POO\Proiect - POO\bin\Debug\Proiect - POO.pdb
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect\Proiect - POO\Proiect - POO\bin\Debug\QRCoder.dll
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect\Proiect - POO\Proiect - POO\bin\Debug\System.Drawing.Common.dll
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect\Proiect - POO\Proiect - POO\obj\Debug\Proiect - POO.csprojAssemblyReference.cache
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect\Proiect - POO\Proiect - POO\obj\Debug\Proiect___POO.AlegeClient.resources
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect\Proiect - POO\Proiect - POO\obj\Debug\Proiect___POO.CreareClient.resources
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect\Proiect - POO\Proiect - POO\obj\Debug\Proiect___POO.Factura.resources
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect\Proiect - POO\Proiect - POO\obj\Debug\Proiect___POO.Properties.Resources.resources
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect\Proiect - POO\Proiect - POO\obj\Debug\Proiect___POO.Shop.resources
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect\Proiect - POO\Proiect - POO\obj\Debug\Proiect - POO.csproj.GenerateResource.cache
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect\Proiect - POO\Proiect - POO\obj\Debug\Proiect - POO.csproj.CoreCompileInputs.cache
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect\Proiect - POO\Proiect - POO\obj\Debug\Proiect - POO.csproj.CopyComplete
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect\Proiect - POO\Proiect - POO\obj\Debug\Proiect - POO.exe
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect\Proiect - POO\Proiect - POO\obj\Debug\Proiect - POO.pdb
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect - POO\Proiect - POO\bin\Debug\Proiect - POO.exe.config
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect - POO\Proiect - POO\bin\Debug\Proiect - POO.exe
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect - POO\Proiect - POO\bin\Debug\Proiect - POO.pdb
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect - POO\Proiect - POO\bin\Debug\QRCoder.dll
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect - POO\Proiect - POO\bin\Debug\System.Drawing.Common.dll
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect - POO\Proiect - POO\obj\Debug\Proiect - POO.csprojAssemblyReference.cache
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect - POO\Proiect - POO\obj\Debug\Proiect___POO.AlegeClient.resources
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect - POO\Proiect - POO\obj\Debug\Proiect___POO.CreareClient.resources
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect - POO\Proiect - POO\obj\Debug\Proiect___POO.Factura.resources
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect - POO\Proiect - POO\obj\Debug\Proiect___POO.Properties.Resources.resources
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect - POO\Proiect - POO\obj\Debug\Proiect___POO.Shop.resources
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect - POO\Proiect - POO\obj\Debug\Proiect - POO.csproj.GenerateResource.cache
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect - POO\Proiect - POO\obj\Debug\Proiect - POO.csproj.CoreCompileInputs.cache
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect - POO\Proiect - POO\obj\Debug\Proiect - POO.csproj.CopyComplete
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect - POO\Proiect - POO\obj\Debug\Proiect - POO.exe
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Proiect - POO\Proiect - POO\obj\Debug\Proiect - POO.pdb
